@@ -15,7 +15,7 @@ $ pip install git+git://github.com/ojii/pymaging-png.git#egg=pymaging-png
 ## Run it
 
 ```
-$ qr_code_totp.py
+$ ./qr_code_totp.py
 ```
 
 Now use FreeOTP android App or Google Authenticator to scan the generated QR code : qr-sample-pyotp.png.	
